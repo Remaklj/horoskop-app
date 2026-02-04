@@ -1,6 +1,17 @@
 # 🌟 Dnevni Horoskop - Web Aplikacija
 
+[![Verzija](https://img.shields.io/badge/verzija-1.0.0-blue.svg)](https://github.com/Remaklj/horoskop-app/releases/tag/v1.0.0)
+[![Live Demo](https://img.shields.io/badge/demo-live-success.svg)](https://horoskop-app-nine.vercel.app)
+[![Vercel](https://img.shields.io/badge/deployed%20on-Vercel-black.svg)](https://horoskop-app-nine.vercel.app)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 Moderna web aplikacija za čitanje dnevnog, nedeljnog i mesečnog horoskopa sa personalizacijom i dodatnim funkcijama.
+
+## 🔗 Live Aplikacija
+
+**🌐 [https://horoskop-app-nine.vercel.app](https://horoskop-app-nine.vercel.app)**
+
+> **Verzija 1.0** - Prva stabilna verzija! Više update-a uskoro! ✨
 
 ## ✨ Funkcionalnosti
 
